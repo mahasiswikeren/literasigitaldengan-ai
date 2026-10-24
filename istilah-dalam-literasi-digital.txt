@@ -1,1 +1,123 @@
+Pendahuluan
+Di era perkembangan teknologi yang semakin pesat, literasi digital menjadi salah satu kemampuan penting yang perlu dimiliki oleh mahasiswa. Literasi digital tidak hanya berkaitan dengan kemampuan menggunakan komputer, internet, atau media sosial, tetapi juga mencakup kemampuan mencari, memahami, mengevaluasi, dan menggunakan informasi secara kritis serta bertanggung jawab.
+Menurut UNESCO Institute for Statistics, literasi digital berkaitan dengan penggunaan teknologi digital secara percaya diri dan kritis untuk memperoleh informasi, berkomunikasi, serta menyelesaikan masalah. Kemampuan ini sangat relevan dalam kegiatan perkuliahan, penelitian, dan dunia bisnis modern.
+Bagi mahasiswa Bisnis Digital, literasi digital membantu dalam mencari referensi akademik, memahami jurnal ilmiah, menganalisis informasi pasar, serta menggunakan teknologi untuk mendukung pengambilan keputusan bisnis.
+Oleh karena itu, artikel ini membahas 100 istilah umum dalam literasi digital yang berhubungan dengan buku, jurnal ilmiah, penelitian, dan penggunaan sumber informasi digital.
+
+A.	Format dan Teknologi Digital 
+
+1. eBook: Buku versi digital yang dapat dibaca di perangkat elektronik.
+2. EPUB: Format standar terbuka untuk eBook yang menyesuaikan teks dengan ukuran layar.
+3. PDF: Format dokumen portabel yang mempertahankan tata letak asli halaman cetak.
+4. MOBI: Format eBook lama yang sebelumnya digunakan oleh perangkat Amazon Kindle.
+5. DRM (Digital Rights Management): Teknologi untuk mencegah pembajakan dan penyebaran ilegal konten digital.
+6. e-Reader: Perangkat elektronik khusus untuk membaca buku digital (misalnya, Kindle).
+7. Reflowable Layout: Teks eBook yang dapat menyesuaikan diri dengan ukuran dan orientasi layar.
+8. Fixed Layout: Tata letak eBook tetap yang mirip dengan PDF, sering digunakan untuk buku bergambar.
+9. Metadata: Data deskriptif tentang buku (judul, penulis, kata kunci) yang membantu pencarian online.
+10. CMS (Content Management System): Perangkat lunak untuk mengelola konten web, seperti WordPress.
+11. XML: Bahasa markup untuk menstrukturkan data dalam dokumen penerbitan digital.
+12. HTML: Bahasa standar untuk membuat dan menampilkan halaman web.
+13. OCR (Optical Character Recognition): Teknologi pengubah gambar teks cetak menjadi teks digital yang bisa diedit.
+14. Cloud Storage: Penyimpanan data online yang memudahkan kolaborasi penulis dan editor.
+15. Open Source: Perangkat lunak dengan kode sumber yang dapat dimodifikasi secara gratis oleh publik.
+Identifikasi dan Standar
+16. ISBN (International Standard Book Number): Kode unik 13 digit untuk mengidentifikasi buku cetak.
+17. e-ISBN: ISBN khusus yang diberikan untuk versi digital dari sebuah buku.
+18. ISSN (International Standard Serial Number): Kode unik untuk publikasi berseri seperti jurnal atau majalah.
+19. e-ISSN: ISSN khusus untuk jurnal atau terbitan berkala versi elektronik/digital.
+20. DOI (Digital Object Identifier): Tautan permanen yang secara unik mengidentifikasi artikel jurnal digital.
+21. ORCID: Kode alfanumerik unik untuk mengidentifikasi penulis dan peneliti akademik secara global.
+22. Crossref: Lembaga pendaftaran DOI resmi untuk publikasi akademik dan profesional.
+23. BISAC: Standar klasifikasi subjek industri buku untuk memudahkan kategorisasi di toko buku.
+24. ONIX: Standar format XML yang digunakan penerbit untuk mendistribusikan metadata buku elektronik.
+25. Permalink: Tautan URL permanen yang mengarah ke artikel spesifik di internet.
+
+B. Jurnal dan Publikasi Akademik
+
+26. Open Access (OA): Model publikasi yang menggratiskan akses artikel jurnal bagi semua pembaca.
+27. Gold OA: Artikel langsung tersedia gratis di situs jurnal setelah penulis membayar biaya publikasi (APC).
+28. Green OA: Penulis menyimpan versi pra-cetak atau pasca-cetak dari artikel mereka di repositori publik.
+29. Peer Review: Proses evaluasi naskah akademik oleh pakar di bidang yang sama sebelum diterbitkan.
+30. Double-blind Review: Proses ulasan di mana identitas penulis dan pengulas saling disembunyikan.
+31. Predatory Journal: Jurnal eksploitatif yang memungut biaya publikasi tanpa proses peer review yang layak.
+32. Impact Factor (IF): Metrik yang mengukur seberapa sering artikel dalam suatu jurnal dikutip.
+33. Scopus: Basis data literatur ilmiah komprehensif yang sering menjadi standar indeksasi jurnal.
+34. Web of Science (WoS): Platform pengindeksan kutipan global independen untuk jurnal akademik bergengsi.
+35. SINTA: Portal pengindeksan publikasi ilmiah nasional yang dikelola oleh pemerintah Indonesia.
+36. Google Scholar: Mesin pencari khusus untuk literatur akademik dan jurnal ilmiah.
+37. Pre-print: Versi naskah jurnal yang belum melalui proses peer review tetapi sudah dibagikan online.
+38. Post-print: Versi naskah yang sudah diulas (peer-reviewed) namun belum di-layout oleh penerbit.
+39. Embargo: Jangka waktu tertentu sebelum artikel jurnal berbayar dapat diakses secara gratis.
+40. Plagiarism Checker: Perangkat lunak (seperti Turnitin) untuk mendeteksi plagiarisme dalam naskah.
+41. Repository: Arsip digital tempat menyimpan dan memelihara dokumen akademik institusi.
+42. Editorial Board: Dewan editor yang bertanggung jawab atas kualitas dan arah publikasi sebuah jurnal.
+43. Manuscript: Naskah mentah dari penulis yang dikirimkan ke penerbit sebelum diedit atau dicetak.
+44. Corresponding Author: Penulis utama yang bertanggung jawab berkomunikasi dengan pihak jurnal.
+45. Call for Papers: Pengumuman dari jurnal atau konferensi yang mengundang peneliti untuk mengirimkan naskah.
+46. Abstract: Ringkasan singkat dari sebuah artikel jurnal atau buku.
+47. Citation (Sitasi): Pengutipan sumber referensi yang digunakan dalam sebuah tulisan akademik.
+48. Reference (Daftar Pustaka): Daftar lengkap dari semua sumber yang dikutip dalam sebuah tulisan.
+49. Indexing: Proses memasukkan jurnal ke dalam basis data akademik agar mudah ditemukan.
+50. Reference Manager: Aplikasi (seperti Mendeley/Zotero) untuk mengelola sitasi dan daftar pustaka secara otomatis.
+
+C. Model Bisnis dan Distribusi
+
+51. Self-Publishing: Model di mana penulis menerbitkan bukunya sendiri tanpa melalui penerbit tradisional.
+52. Traditional Publishing: Penerbitan konvensional di mana penerbit menanggung seluruh biaya produksi dan distribusi.
+53. Hybrid Publishing: Kombinasi penerbitan tradisional dan mandiri, di mana penulis dan penerbit berbagi biaya.
+54. Vanity Press: Penerbit yang meminta penulis membayar seluruh biaya produksi buku tanpa seleksi ketat.
+55. Print on Demand (POD): Sistem mencetak buku hanya ketika ada pesanan, meminimalkan stok gudang.
+56. Aggregator: Pihak ketiga yang mendistribusikan eBook atau jurnal ke berbagai toko online atau perpustakaan.
+57. Distributor: Entitas yang menjembatani penerbit dengan pengecer (toko buku fisik maupun digital).
+58. Paywall: Sistem pembatasan akses konten digital yang mengharuskan pengguna membayar untuk membacanya.
+59. Subscription: Model berlangganan di mana pengguna membayar biaya berkala untuk akses konten.
+60. Freemium: Model bisnis yang menawarkan konten dasar secara gratis dan fitur premium berbayar.
+61. Royalty: Persentase keuntungan dari penjualan buku yang dibayarkan penerbit kepada penulis.
+62. Advance (Uang Muka): Pembayaran royalti di muka yang diberikan penerbit tradisional kepada penulis sebelum buku terbit.
+63. B2B (Business to Business): Transaksi penjualan konten dari penerbit ke institusi, seperti perpustakaan kampus.
+64. D2C (Direct to Consumer): Penjualan buku atau konten digital langsung dari penulis/penerbit ke pembaca.
+65. Crowdfunding: Penggalangan dana dari publik (misalnya via Kickstarter) untuk membiayai penerbitan buku.
+66. E-commerce: Platform perdagangan elektronik tempat buku fisik dan digital diperjualbelikan.
+67. Marketplace: Pasar digital pihak ketiga (seperti Amazon atau Tokopedia) yang menghubungkan penjual dan pembeli buku.
+68. Dropshipping: Sistem penjualan di mana penjual tidak menyimpan stok buku, melainkan langsung dikirim oleh pemasok/penerbit.
+69. Affiliate Marketing: Pemasaran berbasis komisi bagi pihak yang berhasil mempromosikan dan menjual buku.
+70. Monetisasi: Proses mengubah karya tulisan digital atau blog menjadi sumber penghasilan.
+
+D. Produksi dan Editorial
+
+71. Copyediting: Proses penyuntingan naskah untuk memperbaiki tata bahasa, ejaan, dan konsistensi gaya selingkung.
+72. Proofreading: Pembacaan koreksi akhir sebelum naskah diterbitkan untuk mencari typo atau kesalahan kecil.
+73. Typesetting: Proses penataan letak teks secara digital agar rapi saat dicetak atau dibaca di layar.
+74. Beta Reader: Pembaca uji coba yang memberikan umpan balik terhadap naskah sebelum diterbitkan secara luas.
+75. ARC (Advance Reader Copy): Salinan buku awal yang dibagikan secara gratis kepada pengulas sebelum rilis resmi.
+76. Blurb: Teks promosi singkat di sampul belakang buku atau halaman deskripsi digital.
+77. Colophon (Kolofon): Halaman yang memuat informasi detail penerbitan, hak cipta, dan tim produksi buku.
+78. Front Matter: Bagian awal buku (halaman judul, daftar isi, kata pengantar) sebelum masuk ke isi utama.
+79. Back Matter: Bagian akhir buku yang berisi apendiks, glosarium, indeks, atau biografi penulis.
+80. Table of Contents (TOC): Daftar isi interaktif dalam eBook yang memungkinkan pembaca melompat antar bab.
+81. Glossary (Glosarium): Daftar istilah dan definisinya yang relevan dengan topik buku atau jurnal.
+82. Bibliography: Daftar bacaan atau literatur tambahan yang direkomendasikan penulis.
+83. Layouting: Proses mengatur elemen visual dan teks pada halaman untuk kenyamanan membaca.
+84. Cover Design: Desain visual sampul buku yang dioptimalkan untuk thumbnail digital (e-cover).
+85. Typography: Seni memilih dan menata jenis huruf (font) agar estetis dan mudah dibaca di layar digital.
+
+E. Hak Cipta dan Lisensi
+86. Copyright (Hak Cipta): Hak hukum eksklusif kreator atas penggunaan dan distribusi karyanya.
+87. Creative Commons (CC): Lisensi hak cipta publik yang memungkinkan distribusi karya dengan syarat tertentu.
+88. Public Domain: Karya yang hak ciptanya telah kedaluwarsa sehingga bebas digunakan oleh publik secara gratis.
+89. Plagiarisme: Tindakan menjiplak ide, tulisan, atau karya orang lain dan mengklaimnya sebagai milik sendiri.
+90. Fair Use (Penggunaan Wajar): Aturan yang mengizinkan penggunaan sebagian kecil materi berhak cipta tanpa izin untuk tujuan pendidikan/kritik.
+91. Lisensi Eksklusif: Perjanjian di mana penulis hanya memberikan hak penerbitan kepada satu penerbit tertentu.
+92. Royalty-Free: Lisensi untuk menggunakan materi hak cipta (seperti gambar stok) tanpa perlu membayar royalti berulang.
+93. Piracy (Pembajakan): Penggandaan dan distribusi buku atau jurnal digital secara ilegal tanpa izin pemegang hak cipta.
+94. Watermark: Penanda digital transparan pada dokumen (seperti PDF) untuk mengidentifikasi kepemilikan dan mencegah pencurian.
+95. Digital Signature: Tanda tangan kriptografis untuk memverifikasi keaslian dan integritas dokumen digital.
+
+F. Platform dan Pemasaran Digital
+96. KDP (Kindle Direct Publishing): Platform self-publishing milik Amazon untuk menerbitkan eBook dan buku cetak (POD).
+97. Google Play Books Partner Center: Platform bagi penulis dan penerbit untuk menjual buku digital di ekosistem Google.
+98. Wattpad: Platform komunitas online populer tempat para penulis membagikan cerita dan naskah fiksi berseri secara gratis.
+99. SEO (Search Engine Optimization): Teknik mengoptimalkan judul, deskripsi, dan metadata buku agar mudah ditemukan di Google.
+100. Landing Page: Halaman situs web tunggal yang dirancang khusus untuk mempromosikan dan menjual satu judul buku spesifik
 
